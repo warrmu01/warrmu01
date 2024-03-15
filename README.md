@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mughees Warraich
 - 👀 I’m interested in Web devlopment and Data Analysis
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning React js and machine learning
 - 💞️ I’m looking to collaborate on Front End Projects
 - 📫 You can reach out to me through my email : mugheeswarraich11@gmail.com
 
