@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mughees Warraich.
+- 👋 Hi, I’m Mughees Warraich!
 - 👀 I’m interested in Web devlopment, Machine Learning, Data Analysis and Data Visualization!
 - 🌱 I’m currently learning React js, Next js and node js!
 - 💞️ I’m looking to collaborate on Full Stack Projects!
