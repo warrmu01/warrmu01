@@ -1,8 +1,11 @@
-Hi, I’m Mughees Warraich. I have interests in Web and software development. I am also passionate about data analysis and visualization!
+Hello Reader 👋 
+
+I’m Mughees Warraich. I am a Junior CS and DS student at Luther College!
 
 - 👀 I’m interested in Web devlopment, Machine Learning, Data Analysis and Data Visualisation!
 - 🌱 I’m currently learning React js, Next js and node js!
 - 💞️ I’m looking to collaborate on Full Stack Projects!
+- 🥏 I'm also passionate about Ultimate Frisbee!
 - 📫 You can reach out to me through my email : Mugheeswarraich11@gmail.com.
 
 <!---
