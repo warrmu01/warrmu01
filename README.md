@@ -1,6 +1,6 @@
 Hello Reader 👋 
 
-’m Mughees Warraich, a Junior majoring in Computer Science and Data Science at Luther College.
+I’m Mughees Warraich, a Junior majoring in Computer Science and Data Science at Luther College.
 
 - 👀 I’m interested in Web devlopment, Machine Learning, Data Analysis and Data Visualisation!
 - 🌱 I’m currently learning React js, Next js and node js!
