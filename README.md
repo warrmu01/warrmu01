@@ -9,7 +9,6 @@ Hello Reader 👋<br><br>I’m Mughees Warraich, a Junior majoring in Computer S
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=warrmu01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=warrmu01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=warrmu01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
