@@ -11,9 +11,6 @@ Hello Reader 👋<br><br>I’m Mughees Warraich, a Junior majoring in Computer S
 ![](https://nirzak-streak-stats.vercel.app/?user=warrmu01&theme=dark&hide_border=false)<br/>
 
 
-
-
----
 [![](https://visitcount.itsvg.in/api?id=warrmu01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
